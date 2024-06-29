@@ -1,0 +1,9 @@
+RECOMMENDATION SYSTEM:
+
+Introduction:
+This recommendation system aims to provide a list of movies similar to a given movie. It uses a dataset of movies and their associated metadata such as keywords, cast, genres, and director. By combining these features, the system calculates the similarity between movies and recommends the top 10 most similar movies.
+
+Features:
+1. Combines multiple features (keywords, cast, genres, director) to determine movie similarity.
+2. Uses cosine similarity to compute the similarity scores between movies.
+Provides a list of the top 10 movies similar to a given movie.
